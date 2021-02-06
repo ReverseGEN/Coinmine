@@ -1,0 +1,2 @@
+# Coinmine
+Coinmine
