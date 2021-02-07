@@ -48,4 +48,3 @@ Supported coin options:
         - randomx_safex
         - randomx_wow
         - wownero
-
